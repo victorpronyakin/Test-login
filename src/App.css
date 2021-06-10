@@ -1,0 +1,31 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+.login-panel {
+    width: 25vw;
+    height: 70vh;
+    background-color: lightgray;
+    border-radius: 5px;
+}
+.login-data {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 75px;
+}
+
+.button-pad {
+    margin-top: 50px !important;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 75px;
+
+}
